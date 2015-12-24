@@ -1,0 +1,29 @@
+<!--
+    Homework 1
+    MainActivity.kava
+    Yi Zhuo
+    Miruthulavarshini Shanmugam
+    Leif Brooks
+    -->
+<resources>
+    <string name="app_name">BAC Calculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="weightlabel">Weight (lbs)</string>
+    <string name="savebutton">Save</string>
+    <string name="drinksize">Drink Size</string>
+    <string name="enterweight">Enter Weight</string>
+    <string name="radio1oz">1 oz</string>
+    <string name="radio5oz">5oz</string>
+    <string name="radio12oz">12oz</string>
+    <string name="alcohol">Alcohol %</string>
+    <string name="status">status</string>
+    <string name="stat">Your Status :  </string>
+    <string name="baclevel">BAC Level : 0.0</string>
+    <string name="reset">Reset</string>
+    <string name="adddrink">Add Drink</string>
+    <string name="gender">Gender</string>
+    <string name="alcContent">5.0%</string>
+    <string name="statusText">You\'re Safe</string>
+</resources>
